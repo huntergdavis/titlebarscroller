@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "titlescroll", "titlescroll.vcproj", "{052CD875-F29C-494B-907D-6E3CA68E0C3F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/titlescroll\u0022,\u0020JGAAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SolutionUniqueID = {93FBF9AC-B4A3-4D0C-969E-7DC419160C40}
+		SccProjectUniqueName1 = titlescroll.vcproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{052CD875-F29C-494B-907D-6E3CA68E0C3F}.Debug.ActiveCfg = Release|Win32
+		{052CD875-F29C-494B-907D-6E3CA68E0C3F}.Debug.Build.0 = Release|Win32
+		{052CD875-F29C-494B-907D-6E3CA68E0C3F}.Release.ActiveCfg = Release|Win32
+		{052CD875-F29C-494B-907D-6E3CA68E0C3F}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
